@@ -1,0 +1,153 @@
+1674810836065	geckodriver	INFO	Listening on 127.0.0.1:54972
+1674810839115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54973" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Danilka\\AppData\\Local\\Temp\\rust_mozprofile3fw3xH"
+*** You are running in headless mode.
+1674810839464	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674810839467	Marionette	INFO	Listening on port 54981
+WebDriver BiDi listening on ws://127.0.0.1:54973
+Read port: 54981
+1674810839662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Danilka\\AppData\\Local\\Temp\\rust_mozprofile3fw3xH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54973/devtools/browser/6d285ee5-718a-4d96-8edd-7c7ab62ee67f
+1674810876570	geckodriver	INFO	Listening on 127.0.0.1:55057
+1674810879631	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55058" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Danilka\\AppData\\Local\\Temp\\rust_mozprofile60AivP"
+*** You are running in headless mode.
+1674810879852	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674810879855	Marionette	INFO	Listening on port 55066
+WebDriver BiDi listening on ws://127.0.0.1:55058
+Read port: 55066
+1674810880031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Danilka\\AppData\\Local\\Temp\\rust_mozprofile60AivP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55058/devtools/browser/34463e37-4c3f-4943-8176-53dcf826e95b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://moodle.idgu.edu.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://moodle.idgu.edu.ua."
+1674810952697	geckodriver	INFO	Listening on 127.0.0.1:55182
+1674810955740	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55183" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Danilka\\AppData\\Local\\Temp\\rust_mozprofileW2n1fa"
+*** You are running in headless mode.
+1674810955974	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674810955977	Marionette	INFO	Listening on port 55191
+WebDriver BiDi listening on ws://127.0.0.1:55183
+Read port: 55191
+1674810956155	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Danilka\\AppData\\Local\\Temp\\rust_mozprofileW2n1fa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55183/devtools/browser/7748bba9-7e98-46a8-9456-d93ef2142064
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://moodle.idgu.edu.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://moodle.idgu.edu.ua."
+JavaScript error: , line 0: uncaught exception: Object
+1674811306207	geckodriver	INFO	Listening on 127.0.0.1:55658
+1674811309290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55659" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Danilka\\AppData\\Local\\Temp\\rust_mozprofileu1i9JY"
+*** You are running in headless mode.
+1674811309532	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674811309536	Marionette	INFO	Listening on port 55666
+WebDriver BiDi listening on ws://127.0.0.1:55659
+Read port: 55666
+1674811309736	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Danilka\\AppData\\Local\\Temp\\rust_mozprofileu1i9JY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55659/devtools/browser/44ebb128-5b75-48a7-8765-7f0d419a7fc7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://moodle.idgu.edu.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://moodle.idgu.edu.ua."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1674811868599	geckodriver	INFO	Listening on 127.0.0.1:56022
+1674811871634	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "56023" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Danilka\\AppData\\Local\\Temp\\rust_mozprofileM9Xwsi"
+*** You are running in headless mode.
+1674811871890	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674811871894	Marionette	INFO	Listening on port 56031
+WebDriver BiDi listening on ws://127.0.0.1:56023
+Read port: 56031
+1674811872070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Danilka\\AppData\\Local\\Temp\\rust_mozprofileM9Xwsi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56023/devtools/browser/0d06c897-876f-470a-8d8a-9ed391d5b770
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://moodle.idgu.edu.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://moodle.idgu.edu.ua."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1675157962659	geckodriver	INFO	Listening on 127.0.0.1:53939
+1675157965713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53940" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Danilka\\AppData\\Local\\Temp\\rust_mozprofileTt96nm"
+*** You are running in headless mode.
+1675157965985	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675157965989	Marionette	INFO	Listening on port 53948
+Read port: 53948
+WebDriver BiDi listening on ws://127.0.0.1:53940
+1675157966086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Danilka\\AppData\\Local\\Temp\\rust_mozprofileTt96nm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53940/devtools/browser/ba641800-0104-4b3a-8f55-ecd7c5f003cd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://moodle.idgu.edu.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://moodle.idgu.edu.ua."
+JavaScript error: , line 0: uncaught exception: Object
+1679473019299	geckodriver	INFO	Listening on 127.0.0.1:59800
+1679473022359	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "59801" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHCODE~1\\AppData\\Local\\Temp\\rust_mozprofilertlWKc"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679473022597	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679473022600	Marionette	INFO	Listening on port 59808
+WebDriver BiDi listening on ws://127.0.0.1:59801
+Read port: 59808
+1679473022780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHCODE~1\\AppData\\Local\\Temp\\rust_mozprofilertlWKc\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59801/devtools/browser/46a02053-4f31-4815-b9c1-1728045225d0
+1679473067644	geckodriver	INFO	Listening on 127.0.0.1:53223
+1679473070704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53224" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHCODE~1\\AppData\\Local\\Temp\\rust_mozprofile3Ceaam"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679473070927	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679473070930	Marionette	INFO	Listening on port 53231
+WebDriver BiDi listening on ws://127.0.0.1:53224
+Read port: 53231
+1679473071109	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHCODE~1\\AppData\\Local\\Temp\\rust_mozprofile3Ceaam\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53224/devtools/browser/5b1137e3-b79b-43e9-9539-09f074121005
+1679473121193	geckodriver	INFO	Listening on 127.0.0.1:50303
+1679473124252	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "50304" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHCODE~1\\AppData\\Local\\Temp\\rust_mozprofileKPjRQi"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679473124474	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679473124477	Marionette	INFO	Listening on port 50311
+WebDriver BiDi listening on ws://127.0.0.1:50304
+Read port: 50311
+1679473124659	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHCODE~1\\AppData\\Local\\Temp\\rust_mozprofileKPjRQi\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50304/devtools/browser/6e30373f-70ab-4cf0-a01c-4c80c12bb87a
+1679473138143	geckodriver	INFO	Listening on 127.0.0.1:50361
+1679473141188	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "50362" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHCODE~1\\AppData\\Local\\Temp\\rust_mozprofilep7aJZJ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679473141409	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1679473141412	Marionette	INFO	Listening on port 50369
+Read port: 50369
+WebDriver BiDi listening on ws://127.0.0.1:50362
+1679473141486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHCODE~1\\AppData\\Local\\Temp\\rust_mozprofilep7aJZJ\\search.json.mozlz4", (void 0)))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50362/devtools/browser/6aaa8969-5994-466b-bbc2-b49e6c52efa2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://moodle.idgu.edu.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://moodle.idgu.edu.ua."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
