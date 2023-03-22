@@ -235,9 +235,7 @@ def create_table(data, username, password, driver):
 
 def main():
     username = input("[INPUT] Login:")
-#     username = "tymofieiev014_20"
     password = input("[INPUT] Password:")
-#     password = "#Danil2003"
     try:
         service = Service(executable_path="firefoxdriver/geckodriver.exe")
         options = webdriver.FirefoxOptions()
